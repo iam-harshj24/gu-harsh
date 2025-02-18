@@ -1,0 +1,10 @@
+streamlit
+tempfile
+requests
+pandas
+numpy
+bcrypt
+plotly
+openpyxl
+schedule
+xlsxwriter
